@@ -1,5 +1,5 @@
 name: demo
-on: [push, fetch]
+on: [push, status]
 jobs:
     demo-job:
       runs-on: ubuntu-20.04
