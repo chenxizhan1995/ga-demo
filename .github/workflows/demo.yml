@@ -6,5 +6,5 @@ jobs:
     steps:
     -name: step1
       run: |
-        echo $(date)
+        echo hello world
 
